@@ -1,2 +1,2 @@
 # BST
-Implementation of a BST set in C
+Implementation of a BST in C
